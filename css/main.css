@@ -1,1 +1,19 @@
 /* Place CSS styles here */
+header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffcaca80;
+}
+.classtime-things{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 20PX;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #f0f8ff;
+    padding: 20px;
+    text-align: center;
+}
